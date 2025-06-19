@@ -1,0 +1,80 @@
+{
+  "sectionTitle": "Top Shots of the Month",
+  "genres": ["All", "Wildlife", "Street", "Portraits", "Landscape", "Architecture"],
+  "photos": [
+    {
+      "id": 1,
+      "image": "/assets/photos/landscape/landscape1.jpg",
+      "genre": "Landscape",
+      "photographer": "Neel Sane",
+      "description": "Morning mist on a quiet safari trail.",
+      "settings": "ISO 100, f/8, 1/125s"
+    },
+    {
+      "id": 2,
+      "image": "/assets/photos/wildlife/wildlife1.jpg",
+      "genre": "Wildlife",
+      "photographer": "Neel Sane",
+      "description": "Pied bushchat",
+      "settings": ""
+    },
+    {
+      "id": 3,
+      "image": "/assets/photos/street/street2.jpg",
+      "genre": "Street",
+      "photographer": "Amey Joshi",
+      "description": "Dreams",
+      "settings": ""
+    },
+    {
+      "id": 4,
+      "image": "/assets/photos/wildlife/wildlife2.jpg",
+      "genre": "Wildlife",
+      "photographer": "Neel Sane",
+      "description": "Passed through Safari",
+      "settings": ""
+    },
+        
+    {
+      "id": 5,
+      "image": "/assets/photos/architecture/Architecture2.jpg",
+      "genre": "Architecture",
+      "photographer": "Amey Joshi",
+      "description": "Hindu Temple ",
+      "settings": ""
+    },
+    {
+      "id": 6,
+      "image": "/assets/photos/portrait/Portrait1.jpg",
+      "genre": "Portraits",
+      "photographer": "Amey Joshi",
+      "description": "Eyes with Holiness",
+      "settings": ""
+    },
+    
+    {
+      "id": 7,
+      "image": "/assets/photos/wildlife/wildlife4.jpg",
+      "genre": "Wildlife",
+      "photographer": "Om Daddi",
+      "description": "Sharp as Spider-web",
+      "settings": "ISO 400, f/5.6, 1/250s"
+    },
+    {
+      "id": 8,
+      "image": "/assets/photos/street/street1.jpg",
+      "genre": "Street",
+      "photographer": "Om Daddi",
+      "description": "Leading lines of architecture",
+      "settings": "ISO 400, f/5.6, 1/250s"
+    },
+    {
+      "id": 9,
+      "image": "/assets/photos/portrait/Portrait2.JPG",
+      "genre": "Portraits",
+      "photographer": "Amey Joshi",
+      "description": "Eyes with Holiness",
+      "settings": ""
+    }
+  ]
+} 

@@ -1,0 +1,69 @@
+{
+  "secretary": {
+    "id": 1,
+    "name": "Sohal Raj",
+    "position": "Secretary",
+    "image": "/assets/team/Sohal.jpg",
+    "instagram": "@mono_chrome_05",
+    "linkedin": "linkedin.com/in/sohal-raj-53841b263/",
+    
+    "bio": "Exploring and revealing multiple perceptions through a single frame | Street Photographer"
+  },
+  "additionalSecretaries": [
+    {
+      "id": 2,
+      "name": "Naman Meena",
+      "position": "Additional Secretary",
+      "image": "/assets/team/Naman.jpg",
+      "instagram": "@zephyr223",
+      "linkedin": "linkedin.com/in/namanmeena/",
+      "bio": "Chota Mota Photographer."
+    },
+    {
+      "id": 3,
+      "name": "Harshwardhan Memne",
+      "position": "Additional Secretary",
+      "image": "/assets/team/Harshwardhan.jpg",
+      "instagram": "@harshwardhan.dng",
+      "linkedin": "linkedin.com/in/harshwardhan-dng/",
+      "bio": "Capturing time in trails and tales,where long exposure meets the soul of the streets | Light Trail Photographer."
+    }
+  ],
+  "jointSecretaries": [
+    {
+      "id": 4,
+      "name": "Amey Joshi",
+      "position": "Joint Secretary",
+      "image": "/assets/team/Amey.jpg",
+      "instagram": "@persona.vision",
+      "bio": "Architecture and urban photography enthusiast."
+    },
+    {
+      "id": 5,
+      "name": "Aniket Agrawal",
+      "position": "Joint Secretary",
+      "image": "/assets/team/Aniket.jpg",
+      "instagram": "@aniket_._agrawal",
+      "linkedin": "linkedin.com/in/aniket-agrawal-a3061b278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "bio": "Capturing stories one frame at a time | Street photographer ."
+    },
+    {
+      "id": 6,
+      "name": "Atul Sharma",
+      "position": "Joint Secretary",
+      "image": "/assets/team/Atul.jpg",
+      "instagram": "@atul_s2005",
+      "bio": "I See the world through my lens | wildlife photographer",
+      "linkedin": "linkedin.com/in/atul-sharma-25194527a/"
+    },
+    {
+      "id": 7,
+      "name": "Sai Chaithanya",
+      "position": "Joint Secretary",
+      "image": "/assets/team/Chaithanya.jpg",
+      "instagram": "@amateur.__.clicks",
+      "linkedin":"linkedin.com/in/sai-chaithanya-gorantla-4686b7321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "bio": "Fashion and portrait photography enthusiast."
+    }
+  ]
+} 

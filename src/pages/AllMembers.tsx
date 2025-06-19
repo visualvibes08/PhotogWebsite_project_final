@@ -23,7 +23,7 @@ const AllMembers = () => {
       name: "Naman Meena",
       position: "Additional Secretary",
       image: "/assets/team/Naman.jpg",
-      instagram: "@zephyr223",
+      instagram: "@zephyr0223",
       linkedin: "linkedin.com/in/namanmeena/",
       bio: "Chota Mota Photographer."
     },
@@ -41,7 +41,7 @@ const AllMembers = () => {
       name: "Amey Joshi",
       position: "Joint Secretary",
       image: "/assets/team/Amey.jpg",
-      instagram: "@persona.vision",
+      instagram: "@amey.arw",
       bio: "Architecture and urban photography enthusiast."
     },
 
@@ -79,7 +79,7 @@ const AllMembers = () => {
       name: "Om Daddi",
       position: "Member",
       image: "/assets/team/om.jpg",
-      instagram: "@_om_daddi",
+      instagram: "@_om_daddi_",
       linkedin:"linkedin.com/in/om-daddi-8a5a2b321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ",
       bio: "Passionate about Wildlife and event photography."
     },

@@ -137,12 +137,12 @@ const Navbar = () => {
               </Link>
             ))}
             <a
-              href="https://www.instagram.com/photog.iitr/"
+              href="https://www.instagram.com/photog_iitr/"
               target="_blank"
               rel="noopener noreferrer"
               className="block py-2 text-base font-medium text-white hover:text-photog-gold"
             >
-              Instagram
+              Our Instagram Page
             </a>
           </div>
         </div>

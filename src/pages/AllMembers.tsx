@@ -7,9 +7,18 @@ import MemberModal from '@/components/MemberModal';
 const AllMembers = () => {
   const [selectedMember, setSelectedMember] = useState(null);
 
-  // This will be manually updated with all members
+
   const allMembers = [
     {
+    //    {
+    //   id: ,
+    //   name: "",
+    //   position: "Member",
+    //   image: "/assets/team/",
+    //   instagram: "",
+    //   linkedin:"",
+    //   bio: ""
+    // },
       id: 1,
       name: "Sohal Raj",
       position: "Secretary",
@@ -73,7 +82,6 @@ const AllMembers = () => {
       bio: "Fashion and portrait photography enthusiast."
     },
 
-    // Add more members here as needed
     {
       id: 8,
       name: "Om Daddi",
@@ -81,7 +89,7 @@ const AllMembers = () => {
       image: "/assets/team/om.jpg",
       instagram: "@_om_daddi_",
       linkedin:"linkedin.com/in/om-daddi-8a5a2b321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ",
-      bio: "Passionate about Wildlife and event photography."
+      bio: "Revealing nature’s rage, stage’s fire |Wildlife and Concert Photographer."
     },
     {
       id: 9,
@@ -89,54 +97,77 @@ const AllMembers = () => {
       position: "Member",
       image: "/assets/team/neel.jpg",
       instagram: "@superdudeneel",
-      // linkedin:"linkedin.com/in/om-daddi-8a5a2b321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ",
+      linkedin:"linkedin.com/in/neelsane?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ",
       bio: "pursuit of light | wildlife photographer | landscape photographer"
     },
 
-    // {
-    //   id: 9,
-    //   name: "Priya Nair",
-    //   position: "Member",
-    //   image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
-    //   instagram: "@priya.captures",
-    //   bio: "Portrait and fashion photography enthusiast."
-    // },
+    {
+      id: 10,
+      name: "Harshill Utsav K A",
+      position: "Member",
+      image: "/assets/team/Harshill.jpg",
+      instagram: "@pixentra_",
+      linkedin:"linkedin.com/in/harshill-utsav-k-a-2a6941289",
+      bio: "Wildlife Paglu"
+    },
 
-    // {
-    //   id: 10,
-    //   name: "Karan Singh",
-    //   position: "Member",
-    //   image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b",
-    //   instagram: "@karan.vision",
-    //   bio: "Street and documentary photographer."
-    // },
+    {
+      id: 11,
+      name: "Gowri D V",
+      position: "Member",
+      image: "/assets/team/Gowri.jpg",
+      instagram: "@gxwray",
+      linkedin:"linkedin.com/in/gowri-d-v-75350533a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      bio: "pixelating away ."
+    },
+    {
+      id: 12,
+      name: "Shreyas Y S",
+      position: "Member",
+      image: "/assets/team/Shreyas.JPG",
+      instagram: "@shrreyas._",
+      linkedin:"linkedin.com/in/shreyas-y-s-54676b29a ",
+      bio: "Wandering with a camera, clicking what clicks | Random photographer ."
+    },
 
-    // {
-    //   id: 11,
-    //   name: "Meera Patel",
-    //   position: "Member",
-    //   image: "https://images.unsplash.com/photo-1518770660439-4636190af475",
-    //   instagram: "@meera.shots",
-    //   bio: "Wildlife and macro photography specialist."
-    // },
+    {
+      id: 13,
+      name: "Yuvraj Sharma",
+      position: "Member",
+      image: "/assets/team/yuvraj.webp",
+      instagram: "@yuvrajsharmaa_",
+      linkedin:"linkedin.com/in/yuvraj-sharma-0a0725251",
+      bio: "Finding Vantage points through my lens | Travel Photographer ."
+    },
+    {
+      id: 14,
+      name: "Promit Prodhan",
+      position: "Member",
+      image: "/assets/team/Promit.JPG",
+      instagram: "@promitprodhan",
+      linkedin:"linkedin.com/in/promit-prodhan-495083304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      bio: "CURATOR of MOMENTS | EMNI photographer"
+    },
+    {
+      id: 15,
+      name: "Swetank Singh",
+      position: "Member",
+      image: "/assets/team/yuvraj.webp",
+      instagram: "@swetank__27",
+      linkedin:"linkedin.com/in/swetank-singh-a814a1321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      bio: "Kuch toh kheech leta hu"
+    },
+    {
+      id: 16,
+      name: "Harsh Deep",
+      position: "Member",
+      image: "/assets/team/Harsh Deep.jpg",
+      instagram: "@justclick_harry",
+      linkedin:"linkedin.com/in/harsh-deep-117206343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      bio: "Searching for frames"
+    },
+   
 
-    // {
-    //   id: 12,
-    //   name: "Raj Kumar",
-    //   position: "Member",
-    //   image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
-    //   instagram: "@raj.focus",
-    //   bio: "Architecture and urban photography lover."
-    // },
-
-    // {
-    //   id: 13,
-    //   name: "Aisha Khan",
-    //   position: "Member",
-    //   image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
-    //   instagram: "@aisha.clicks",
-    //   bio: "Event and candid photography expert."
-    // }
   ];
 
   const positions = ['All', 'Secretary', 'Additional Secretary', 'Joint Secretary', 'Member'];

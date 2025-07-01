@@ -152,7 +152,7 @@ const AllMembers = () => {
       id: 15,
       name: "Swetank Singh",
       position: "Member",
-      image: "/assets/team/yuvraj.webp",
+      image: "/assets/team/Swetank.jpg",
       instagram: "@swetank__27",
       linkedin:"linkedin.com/in/swetank-singh-a814a1321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       bio: "Kuch toh kheech leta hu"
@@ -166,6 +166,35 @@ const AllMembers = () => {
       linkedin:"linkedin.com/in/harsh-deep-117206343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       bio: "Searching for frames"
     },
+       {
+      id: 17,
+      name: "Manikanta",
+      position: "Member",
+      image: "/assets/team/Manikanta .jpg",
+      instagram: "@manikanta17_1811",
+      linkedin:"linkedin.com/in/r-s-v-shanmukha-sri-manikanta-mutyala-229471372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      bio: "Click with your eyes first"
+    },
+       {
+      id: 18,
+      name: "Vaibhav",
+      position: "Member",
+      image: "/assets/team/Vaibhav.jpg",
+      instagram: "",
+      linkedin:"",
+      bio: ""
+    },
+       {
+      id:19 ,
+      name: "Prachet Patel",
+      position: "Member",
+      image: "/assets/team/Prachet.png",
+      instagram: "@prachetpatel17",
+      linkedin:"linkedin.com/in/prachet-patel-33977831a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      bio: "On the right side of the camera "
+    },
+    
+         
    
 
   ];
